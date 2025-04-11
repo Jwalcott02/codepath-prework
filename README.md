@@ -25,23 +25,19 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 #### Favorite Apps and Features:
 
-1. **Instagram**  
-   - Changing the background color of the messages screen  
-   - Deleting old messages  
-
-2. **Twitter**  
+1. **Twitter**  
    - Retweeting posts with added comments  
    - Bookmarking tweets for later viewing  
 
-3. **Spotify**  
+2. **Spotify**  
    - Personalized playlists  
    - Dark/light mode toggle  
 
-4. **Uber**  
+3. **Uber**  
    - Live tracking of rides  
    - Estimated fare calculation  
 
-5. **TikTok**  
+4. **TikTok**  
    - Interactive filters  
    - Personalized video recommendations  
 
