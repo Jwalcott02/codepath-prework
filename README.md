@@ -15,7 +15,9 @@ The following **required** functionality is completed:
 - [x] Users see a screen with three labels and a button.
 - [x] Tapping the button changes the screen color to a random color.
 
-<div style="position: relative; padding-bottom: 217.74193548387095%; height: 0;"><iframe src="https://www.loom.com/embed/3ee208287a734feeb5694f7bc9e21602?sid=79a69ec3-8fd7-40b1-a0d1-5d56503db00e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+[![Watch the video](https://cdn.loom.com/sessions/thumbnails/3ee208287a734feeb5694f7bc9e21602-with-play.jpg)](https://www.loom.com/share/3ee208287a734feeb5694f7bc9e21602)
+
+
 ## App Brainstorming (Step 4)
 
 #### Favorite Apps and Features:
