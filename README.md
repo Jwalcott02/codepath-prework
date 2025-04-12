@@ -16,7 +16,13 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color.
       
 
-[![Watch the video](https://cdn.loom.com/sessions/thumbnails/3ee208287a734feeb5694f7bc9e21602-with-play.jpg)](https://www.loom.com/share/3ee208287a734feeb5694f7bc9e21602)
+<div>
+    <a href="https://www.loom.com/share/3ee208287a734feeb5694f7bc9e21602">
+    </a>
+    <a href="https://www.loom.com/share/3ee208287a734feeb5694f7bc9e21602">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3ee208287a734feeb5694f7bc9e21602-091b3f95075cac85-full-play.gif">
+    </a>
+  </div>
 
 
 
