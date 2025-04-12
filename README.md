@@ -18,6 +18,7 @@ The following **required** functionality is completed:
 [![Watch the video](https://cdn.loom.com/sessions/thumbnails/3ee208287a734feeb5694f7bc9e21602-with-play.jpg)](https://www.loom.com/share/3ee208287a734feeb5694f7bc9e21602)
 
 
+
 ## App Brainstorming (Step 4)
 
 #### Favorite Apps and Features:
